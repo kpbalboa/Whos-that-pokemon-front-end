@@ -1,0 +1,22 @@
+.background{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../../assets/imgs/background.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+img{
+    position: absolute;
+    left:200px;
+    top: 180px;
+    /* height: 30vh; */
+    width: 30vw;
+}
+.options{
+    display: flex;
+    position: absolute;
+    left:200px;
+    top: 150px;
+    justify-content: space-between;
+}
